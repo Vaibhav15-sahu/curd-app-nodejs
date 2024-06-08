@@ -1,2 +1,4 @@
 # curd-app-nodejs
-A node js application to perform the curd operation. Using Mongodb as a database.
+A node js & exress application to learn the curd operation. 
+And using mogodb as database.
+
